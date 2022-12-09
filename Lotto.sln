@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotto", "Lotto\Lotto.csproj", "{138D64C9-91DA-45E2-A049-C655021B8692}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lotto.Tests", "Lotto.Tests\Lotto.Tests.csproj", "{F512E9AB-491A-4D2B-BC5E-2DB979788CCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projektmappenelemente", "Projektmappenelemente", "{BC7EFD43-DB03-4987-86D6-39A8BE2858B0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138D64C9-91DA-45E2-A049-C655021B8692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138D64C9-91DA-45E2-A049-C655021B8692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138D64C9-91DA-45E2-A049-C655021B8692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138D64C9-91DA-45E2-A049-C655021B8692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F512E9AB-491A-4D2B-BC5E-2DB979788CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F512E9AB-491A-4D2B-BC5E-2DB979788CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F512E9AB-491A-4D2B-BC5E-2DB979788CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F512E9AB-491A-4D2B-BC5E-2DB979788CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F476A6F4-EF5E-4FAB-B67B-340014ACBF95}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+              Name    #Spiele ohne Gewinn    #Spiele mit Gewinn    Lottoauszahlung(CHF)   Gewinn(CHF)
+-----------------------------------------------------------------------------------------------------
+   Captain America                      0                     1                      25           20
+  Hermione Granger                      0                     2                      27           17
+      Walter White                      0                     1                      10            5
+        Tony Stark                      0                     1                      10            5
+        Stan Marsh                      0                     1                      10            5
+        James Bond                      0                     1                      10            5
+    Jules Winfield                      1                     1                      10            0
+        Ron Weasly                      0                     1                       5            0
+      Jack Sparrow                      1                     1                      10            0
+   Ronald McDonald                      0                     1                       2           -3
+   Hannibal Lector                      0                     1                       2           -3
+          Han Solo                      0                     2                       7           -3
+    Obi-Wan Kenobi                      1                     2                      12           -3
+         Gus Fring                      1                     0                       0           -5
+     Bilbo Baggins                      1                     0                       0           -5
+      Harry Potter                      1                     0                       0           -5
+       Darth Vader                      1                     0                       0           -5
+    Lord Voldemort                      1                     0                       0           -5
+       Marty McFly                      1                     0                       0           -5
+  Katniss Everdeen                      1                     0                       0           -5
+      Pepper Potts                      0                     2                       4           -6
+     Jesse Pinkman                      1                     1                       2           -8
+      Saul Goodman                      2                     2                      12           -8
+      John McClane                      1                     1                       2           -8
+          Jon Snow                      1                     1                       2           -8
+     Indiana Jones                      1                     1                       2           -8
+     Charlie Brown                      2                     0                       0          -10
+      Forrest Gump                      2                     0                       0          -10
+      Eric Cartman                      1                     2                       4          -11
+      Mary Poppins                      1                     2                       4          -11
+
+Gesammte Gewinnausschüttung: 172 (CHF)
+Reingewinn: 78 (CHF)

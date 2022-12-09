@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Andrew Anders",
+    "LottoNumbers": [ "1", "2", "3", "4", "5", "6" ],
+    "LuckyNumber": 2
+  },
+  {
+    "Name": "Björn Blatter",
+    "LottoNumbers": [ "7", "8", "9", "10", "11", "12" ],
+    "LuckyNumber": 3
+  },
+  {
+    "Name": "Charlie Chaplin",
+    "LottoNumbers": [ "13", "14", "15", "16", "17", "18" ],
+    "LuckyNumber": 7
+  },
+  {
+    "Name": "Dieter Dürftig",
+    "LottoNumbers": [ "2", "4", "6", "8", "10", "12" ],
+    "LuckyNumber": 6
+  },
+  {
+    "Name": "Eduard Elend",
+    "LottoNumbers": [ "3", "6", "9", "12", "15", "18" ],
+    "LuckyNumber": 5
+  },
+  {
+    "Name": "Fritz Forsch",
+    "LottoNumbers": [ "4", "8", "12", "16", "20", "1" ],
+    "LuckyNumber": 4
+  },
+  {
+    "Name": "Gabriel Güssler",
+    "LottoNumbers": [ "1", "2", "3", "5", "8", "13" ],
+    "LuckyNumber": 1
+  },
+  {
+    "Name": "Hans Hossle",
+    "LottoNumbers": [ "3", "4", "12", "1", "6", "20" ],
+    "LuckyNumber": 3
+  },
+  {
+    "Name": "Ingo Innecke",
+    "LottoNumbers": [ "20", "2", "3", "12", "7", "8" ],
+    "LuckyNumber": 3
+  }
+]
